@@ -1,0 +1,16 @@
+@import 'https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.page-render {
+  font-family: 'Anton', sans-serif;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  margin-left: 20px;
+  margin-top: 30px;
+  background-color: rgb(131, 131, 243);
+  width: 200px;
+  height: 260px;
+  border: 2px solid black;
+  border-radius: 7px;
+  text-align: center;
+}
